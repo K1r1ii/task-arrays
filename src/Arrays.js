@@ -30,3 +30,4 @@ export function arrayPushing(array1, array2) {
   }
   return result;
 }
+
